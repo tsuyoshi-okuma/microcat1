@@ -6,22 +6,22 @@ MicroCat.1（マイクロキャットワン）は、MicroPython を搭載した 
 
 ## [目次](https://github.com/mechatrax/microcat1/wiki)
 
-### [ハードウェア](https://github.com/mechatrax/microcat1/wiki/ハードウェア)  
-  1. [外形図](https://github.com/mechatrax/microcat1/wiki/ハードウェア#1-外形図)  
-  2. [仕様](https://github.com/mechatrax/microcat1/wiki/ハードウェア#2-仕様)  
-  3. [インターフェース](https://github.com/mechatrax/microcat1/wiki/ハードウェア#3-インターフェース)  
-  4. [通信モジュール](https://github.com/mechatrax/microcat1/wiki/ハードウェア#4-通信モジュール)  
+### [ハードウェア](https://github.com/mechatrax/microcat1/wiki/ハードウェア)
 
-### [ソフトウェア](https://github.com/mechatrax/microcat1/wiki/ソフトウェア)  
-  1. [セットアップ](https://github.com/mechatrax/microcat1/wiki/ソフトウェア#1-セットアップ)  
-  2. [ライブラリ](https://github.com/mechatrax/microcat1/wiki/ソフトウェア#2-ライブラリ)  
-  3. [変更点](https://github.com/mechatrax/microcat1/wiki/ソフトウェア#3-変更点)  
+1. [外形図](https://github.com/mechatrax/microcat1/wiki/ハードウェア#1-外形図)
+2. [仕様](https://github.com/mechatrax/microcat1/wiki/ハードウェア#2-仕様)
+3. [インターフェース](https://github.com/mechatrax/microcat1/wiki/ハードウェア#3-インターフェース)
+4. [通信モジュール](https://github.com/mechatrax/microcat1/wiki/ハードウェア#4-通信モジュール)
+
+### [ソフトウェア](https://github.com/mechatrax/microcat1/wiki/ソフトウェア)
+
+1. [セットアップ](https://github.com/mechatrax/microcat1/wiki/ソフトウェア#1-セットアップ)
+2. [ライブラリ](https://github.com/mechatrax/microcat1/wiki/ソフトウェア#2-ライブラリ)
+3. [変更点](https://github.com/mechatrax/microcat1/wiki/ソフトウェア#3-変更点)
 
 ### [ファームウェア](https://github.com/mechatrax/microcat1/wiki/ファームウェア)
-  + [ダウンロード](https://github.com/mechatrax/microcat1/wiki/ファームウェア#ダウンロード)  
-ファームウェアは次のリンク先からダウンロードできます。  
-https://github.com/mechatrax/micropython/releases
-  + [ライセンス](https://github.com/mechatrax/microcat1/tree/main?tab=License-1-ov-file)  
-本製品のファームウェアにはオープンソースソフトウェアを使用しています。  
-ビルドされたファームウェアのライセンスについては次のファイルを確認してください。  
-[LICENSE.md](LICENSE.md)
+
+- [ダウンロード](https://github.com/mechatrax/microcat1/wiki/ファームウェア#ダウンロード)
+- [ライセンス](https://github.com/mechatrax/microcat1/wiki/ファームウェア#ライセンス)
+
+### [動作確認済み SIM](https://github.com/mechatrax/microcat1/wiki/動作確認済みSIM)
